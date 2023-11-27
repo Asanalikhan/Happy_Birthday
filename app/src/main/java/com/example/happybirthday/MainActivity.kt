@@ -50,7 +50,7 @@ fun GreatingText(message: String, from: String, modifier: Modifier = Modifier){
         )
         Text(
             text = from,
-            fontSize = 36.sp,
+            fontSize = 37.sp,
             modifier = Modifier.padding(16.dp).align(alignment = Alignment.End)
         )
     }
